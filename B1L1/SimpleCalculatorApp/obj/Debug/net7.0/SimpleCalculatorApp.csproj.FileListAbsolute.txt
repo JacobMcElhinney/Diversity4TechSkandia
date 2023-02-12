@@ -1,0 +1,15 @@
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.exe
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.deps.json
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.pdb
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\refint\SimpleCalculatorApp.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.pdb
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\SimpleCalculatorApp\obj\Debug\net7.0\ref\SimpleCalculatorApp.dll

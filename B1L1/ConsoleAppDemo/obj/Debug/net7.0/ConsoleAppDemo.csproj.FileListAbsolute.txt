@@ -1,0 +1,15 @@
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\bin\Debug\net7.0\ConsoleAppDemo.exe
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\bin\Debug\net7.0\ConsoleAppDemo.deps.json
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\bin\Debug\net7.0\ConsoleAppDemo.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\bin\Debug\net7.0\ConsoleAppDemo.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\bin\Debug\net7.0\ConsoleAppDemo.pdb
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\refint\ConsoleAppDemo.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.pdb
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ConsoleAppDemo.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppDemo\obj\Debug\net7.0\ref\ConsoleAppDemo.dll

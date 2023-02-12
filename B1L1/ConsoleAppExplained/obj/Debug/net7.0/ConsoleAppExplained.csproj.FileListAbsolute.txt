@@ -1,0 +1,15 @@
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\bin\Debug\net7.0\ConsoleAppExplained.exe
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\bin\Debug\net7.0\ConsoleAppExplained.deps.json
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\bin\Debug\net7.0\ConsoleAppExplained.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\bin\Debug\net7.0\ConsoleAppExplained.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\bin\Debug\net7.0\ConsoleAppExplained.pdb
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\refint\ConsoleAppExplained.dll
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.pdb
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ConsoleAppExplained.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleAppExplained\obj\Debug\net7.0\ref\ConsoleAppExplained.dll

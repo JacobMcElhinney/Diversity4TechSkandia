@@ -1,0 +1,5 @@
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\Repositories\Diversity4TechSkandia\B1L1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
