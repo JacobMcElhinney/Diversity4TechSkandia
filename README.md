@@ -1,5 +1,5 @@
 # Diversity4TechSkandia
-Välkomna till kursen!
+Välkomna till kursen! 🙂
 
 ## B1L1 - Intro & Grunder C#
 
