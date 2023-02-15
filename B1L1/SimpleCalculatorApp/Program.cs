@@ -6,7 +6,6 @@
         {
             do
             {
-                Console.Clear();
 
                 double num1 = 0;
                 double num2 = 0;

@@ -1,6 +1,16 @@
 # Diversity4TechSkandia
 Välkomna till kursen! 🙂
 
+
+## B1L2 - Grunder fortsättning
+
+**Att göra**
+- [ ] genomför [tutorial ](https://www.w3schools.com/cs/cs_operators_comparison.php) avsnitten operators t.o.m Arrays  
+- [ ] genomför övningsmodulerna 5-8 [Take your first steps with c#](https://learn.microsoft.com/en-us/training/paths/csharp-first-steps/)
+- [ ] Skapa en enkel C# ConsoleApp: som föreläsare vill jag kunna ange antal kursdeltagare samt antal team att slumpmässigt fördela deltagarna över så att vi kan komma igång med mobprogrammering nästa träff!
+- [ ] se även länkar i B1L2 projekten som hänvisar till officiella dokumentationen.
+
+
 ## B1L1 - Intro & Grunder C#
 
 **Att göra**
