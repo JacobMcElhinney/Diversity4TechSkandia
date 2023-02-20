@@ -1,5 +1,22 @@
 # Diversity4TechSkandia
-Välkomna till kursen! 🙂
+
+## Team
+
+|team |member|
+|-----|-------|
+|1| Issa      |
+|1  |Kristian |
+|1  |Nina      |
+|1  |Elida     |
+|2 |Viktor     |
+|2 |Karin      |
+|2 |Elsa       |
+|3 |Caroline   |
+|3 |Abel       |
+|3 |Bobo       |
+|4 |Susanna    |
+|4 |Oliver T   |
+|4 |Oliver U   |
 
 ## B1L3 - Metoder
 
