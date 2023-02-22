@@ -18,6 +18,13 @@
 |4 |Oliver T   |
 |4 |Oliver U   |
 
+## B1L4 - Objektorienterad Programmering
+
+**Att göra**
+- [ ] Genomför mob programmeringsuppgiften (i B1L4 mappen) i era team. Syftet är att bygga en förståelse för de fyra grundläggande principerna för OOP och hur ni kan modellera verkligheten med klasser.  
+- [ ] Om ni har tid över, fortsätt att bekanta er med [Microsoft Docs](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+- [ ] Vi kommer repetera och återbesöka många av dessa moment under framtida block, förståelsen kommer växa fram över tid :smiley: 
+
 ## B1L3 - Metoder
 
 **Att göra**
