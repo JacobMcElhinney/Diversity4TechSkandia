@@ -18,6 +18,14 @@
 |4 |Oliver T   |
 |4 |Oliver U   |
 
+
+## B1L5 - Objektorienterad Programmering
+
+**Att göra**
+- [ ] Dagens övning går ut på att fördjupa er förståelse om hur ni skriver defensiv kod, samt tillämpar OOP & SOLID principerna. Refaktorera era tidigare projekt utifrån vad ni lärt er under dagens föreläsning. Alternativt refaktorera den kod som ligger B1-5. Förhoppningen är att ni både ska få tillfälle att arbeta fram en djupare förståelse och även upptäcka hur mycket ni redan kan om C# & .NET, jämfört med kursstart! 🙂
+- [ ] Om ni har tid över, fortsätt gärna att bekanta er med Microsoft Docs på dagens teman: [exceptions](https://learn.microsoft.com/en-us/dotnet/api/system.exception?view=net-7.0) & [architectural principles](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#single-responsibility)
+- [ ] Vi kommer repetera och återbesöka många av dessa koncept under framtida block, Bra kämpat med första blocket! 😃: 
+
 ## B1L4 - Objektorienterad Programmering
 
 **Att göra**
