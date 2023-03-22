@@ -20,7 +20,7 @@
 
   
   
-## B2L2 
+## B2L2 - Database Design & Normalisation
 
 **Att göra**
 - [ ] Dagens övning går ut på att normalisera de tabeller ni skapat till 3NF. Diskutera tillsammans, avnänd gärna "database diagrams" för att snabbt skapa upp och illustrera relationen mellan tabeller. Syftet är att tillsammans förbättra er förståelse och förmåga gällande koncepten som introducerades under dagens föreläsing. 
