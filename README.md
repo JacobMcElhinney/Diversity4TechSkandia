@@ -26,7 +26,7 @@
 - [ ] Komplettera den nya code first databasen med egna klasser (ex Room, Lecture, Teacher) eller bygg vidare på egna idér ni har kring den slutgiltiga produkten 
       (SQL server databas + ASP.NET WebAPI + React GUI).
 - [ ] Utforska query och method syntaxen. "Include" (joins) kommer vi dock täcka in först i nästa block.
-- [ ] Försök skapa pch migrera en stored proceedure som ni anropar från er kod, för att "seeda" respektive tabell e.g. `spSeedProgrammers`.
+- [ ] Försök skapa pch migrera en stored proceedure som ni anropar från er kod, för att "seeda" respektive tabell e.g. `spSeedProgrammers`.  
 **Lärandemål**
 - Kunna skapa en connection string för code first migrations där databasen ännu inte existerar
 - Kunna använda data annotationer för att definiera relationen mellan tabeller och ange "constraints" 
